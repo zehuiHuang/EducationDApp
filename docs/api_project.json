@@ -1,0 +1,1 @@
+{  "name": "EducationDapp",  "version": "1.0.0",  "description": "普瑞教育项目去中心化应用API",  "title": "Education DApp",  "url": "",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2018-08-16T04:32:38.139Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }}
