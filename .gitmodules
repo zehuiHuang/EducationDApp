@@ -1,0 +1,3 @@
+[submodule "contracts/EducationContracts"]
+	path = contracts/EducationContracts
+	url = git@github.com:zehuiHuang/EducationContracts.git
